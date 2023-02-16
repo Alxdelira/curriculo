@@ -1,0 +1,19 @@
+.cabecalho {
+    background-color: #98336c;
+    text-align: center;
+
+}
+.titulo{
+    color: #ffffff;
+}
+
+.perfil{
+    margin: 20px;
+    max-width: 100px;
+    border: 2px solid #486288;
+    border-radius: 50%;
+}
+
+.redes_sociais img {
+    padding: 10px;
+}
